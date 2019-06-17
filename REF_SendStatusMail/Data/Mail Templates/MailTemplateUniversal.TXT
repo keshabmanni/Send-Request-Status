@@ -1,0 +1,9 @@
+<h2>Dear _USER,</h2>
+<h3>Your request with Employee ID _EID has been _STATUS due to _REASON.</h3>
+<h3>_SUGGESTION</h3>
+<h3>Thank You!</h3>
+
+<h4>Best,</h4>
+<h4>Request Review Team.</h4>
+
+<h5>**It's System Generated mail, Please Do not reply to this mail**</h5>
